@@ -1,0 +1,21 @@
+{
+  "name": "TKPhoto",
+  "version": "1.0.5",
+  "summary": "An NSTKPhoto-based to NSImage  converter.",
+  "homepage": "https://github.com/nicolastinkl/TKPhoto",
+  "license": "MIT",
+  "authors": {
+    "Nicolas Tinkl": "nicolastinkl@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/nicolastinkl/TKPhoto.git",
+    "tag": "1.0.5"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": [
+  	"*.{h,m}"
+  ],
+  "requires_arc": true
+}
